@@ -1,4 +1,4 @@
-![GitHub Logo](assets/images/screenshot.png)
+![GitHub Logo](assets/images/preview.png)
 # Crypto-Price 1.0.0
 
 ## About
