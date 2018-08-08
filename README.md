@@ -9,7 +9,7 @@ Basic crypto app for desktop which shows BTC prices in USD
 
 ### Clone or Download Zip
 
-## Run The Following Code
+### Paste The Following Commands On Your Terminal
 
 ```
   npm install
@@ -20,4 +20,4 @@ and
 ```
   npm start
 ```
-
+## Hooray.. #HappyCoding
